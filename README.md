@@ -15,6 +15,7 @@ Logos, colours and brand guidelines for Chroniton Labs and its projects. Use the
 |---|---|
 | [`chronitonlabs/`](chronitonlabs/) | The Chroniton Labs mark, lockup, avatar and banner |
 | [`chronitondb/`](chronitondb/) | The ChronitonDB mark, lockup, avatar and social preview image |
+| [`prompts/`](prompts/) | The design briefs used to produce the artwork |
 
 ### Chroniton Labs
 
