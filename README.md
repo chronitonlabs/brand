@@ -46,3 +46,7 @@ Use the SVG files wherever you can. They stay sharp at any size.
 The files in this repository are licensed under the [Apache License, Version 2.0](LICENSE).
 
 The names and logos are trademarks. Chroniton Labs™, ChronitonDB™ and their logos are trademarks of AxonOps Limited. The Apache License, Version 2.0 does not grant permission to use them (section 6 of the License). You may use them to refer to the projects they name, following the brand guidelines, in a way that does not suggest endorsement by Chroniton Labs or AxonOps Limited.
+
+AxonOps® is a registered trademark of AxonOps Limited.
+
+Apache®, Apache Cassandra®, Cassandra® and the Apache Cassandra Eye logo are either registered trademarks or trademarks of the Apache Software Foundation in the United States and/or other countries. No endorsement by The Apache Software Foundation is implied by the use of these marks.

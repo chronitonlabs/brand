@@ -12,5 +12,7 @@
   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
   See the License for the specific language governing permissions and
   limitations under the License.
+
+  Chroniton Labs and the Chroniton Labs logo are trademarks of AxonOps Limited.
 -->
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64"><title>Chroniton Labs</title><rect fill="#EDEDED" x="4" y="4" width="16" height="16" rx="2"></rect><rect fill="#EDEDED" x="24" y="4" width="16" height="16" rx="2"></rect><rect fill="#EDEDED" x="44" y="4" width="16" height="16" rx="2"></rect><rect fill="#EDEDED" x="4" y="24" width="16" height="16" rx="2"></rect><rect fill="#EDEDED" x="44" y="24" width="16" height="16" rx="2"></rect><rect fill="#EDEDED" x="4" y="44" width="16" height="16" rx="2"></rect><rect fill="#EDEDED" x="24" y="44" width="16" height="16" rx="2"></rect><rect fill="#EDEDED" x="44" y="44" width="16" height="16" rx="2"></rect><rect fill="#D8572A" x="24" y="24" width="16" height="16" rx="2"></rect></svg>
