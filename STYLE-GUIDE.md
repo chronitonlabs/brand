@@ -8,10 +8,10 @@ These guidelines cover the logos, colours, type and web usage for Chroniton Labs
 
 Chroniton Labs is the parent identity. Each project has its own mark. All marks are drawn on the same three by three grid of rounded cells. The Labs mark fills the whole grid, and each project mark is a shape cut from it. Every mark has exactly one orange cell.
 
-| Parent | Project |
-|---|---|
-| <img src="chronitonlabs/chroniton-labs-avatar-512.png" width="96" alt="Chroniton Labs mark"> | <img src="chronitondb/chronitondb-icon-charcoal-512.png" width="96" alt="ChronitonDB mark"> |
-| Chroniton Labs | ChronitonDB |
+| Parent | Projects | | | |
+|---|---|---|---|---|
+| <img src="chronitonlabs/chroniton-labs-avatar-512.png" width="96" alt="Chroniton Labs mark"> | <img src="chronitondb/chronitondb-icon-charcoal-512.png" width="96" alt="ChronitonDB mark"> | <img src="chronitonmq/chronitonmq-icon-charcoal-512.png" width="96" alt="ChronitonMQ mark"> | <img src="cqlai/cqlai-icon-charcoal-512.png" width="96" alt="CQLAI mark"> | <img src="cqlworkbench/cqlworkbench-icon-charcoal-512.png" width="96" alt="CQL Workbench mark"> |
+| Chroniton Labs | ChronitonDB | ChronitonMQ | CQLAI | CQL Workbench |
 
 ## 2. Logos
 
@@ -39,7 +39,7 @@ Each identity has a square mark and a horizontal lockup. Use the lockup where th
 | Gap between cells | 4 units |
 | Margin | 4 units on every side |
 | Wordmark | Starts 14 units after the last cell. Its cap height is 32 units, centred on the mark. |
-| Orange cell | Exactly one per mark. Labs puts it in the centre. ChronitonDB puts it top right. |
+| Orange cell | Exactly one per mark. Labs puts it in the centre, ChronitonDB top right, ChronitonMQ middle right, CQLAI bottom right and CQL Workbench top left. |
 
 ## 4. Clear space and minimum size
 
@@ -49,6 +49,7 @@ Leave clear space equal to one cell (a quarter of the mark's height) on every si
 |---|---|
 | Chroniton Labs mark | 24 px |
 | ChronitonDB mark | 16 px |
+| ChronitonMQ, CQLAI and CQL Workbench marks | 16 px |
 | Chroniton Labs lockup | 160 px wide |
 | ChronitonDB lockup | 140 px wide |
 
