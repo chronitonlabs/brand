@@ -15,6 +15,9 @@ Logos, colours and brand guidelines for Chroniton Labs and its projects. Use the
 |---|---|
 | [`chronitonlabs/`](chronitonlabs/) | The Chroniton Labs mark, lockup, avatar and banner |
 | [`chronitondb/`](chronitondb/) | The ChronitonDB mark, lockup, avatar and social preview image |
+| [`chronitonmq/`](chronitonmq/) | The ChronitonMQ mark, lockup, avatar and social preview image |
+| [`cqlai/`](cqlai/) | The CQLAI mark, lockup, avatar and social preview image |
+| [`cqlworkbench/`](cqlworkbench/) | The CQL Workbench mark, lockup, avatar and social preview image |
 | [`prompts/`](prompts/) | The design briefs used to produce the artwork |
 
 ### Chroniton Labs
@@ -39,13 +42,46 @@ Logos, colours and brand guidelines for Chroniton Labs and its projects. Use the
 | `chronitondb-icon-charcoal-512.png` | Mark on a solid charcoal square, for avatars |
 | `chronitondb-social-preview.png` | Social preview card, 1280 by 640 |
 
+### ChronitonMQ
+
+| File | Use |
+|---|---|
+| `chronitonmq-lockup-light.svg` | Mark and name, for light backgrounds |
+| `chronitonmq-lockup-dark.svg` | Mark and name, for dark backgrounds |
+| `chronitonmq-icon-light.svg`, `chronitonmq-icon-light-512.png` | Mark only, for light backgrounds |
+| `chronitonmq-icon-dark.svg`, `chronitonmq-icon-dark-512.png` | Mark only, for dark backgrounds |
+| `chronitonmq-icon-charcoal-512.png` | Mark on a solid charcoal square, for avatars |
+| `chronitonmq-social-preview.png` | Social preview card, 1280 by 640 |
+
+### CQLAI
+
+| File | Use |
+|---|---|
+| `cqlai-lockup-light.svg` | Mark and name, for light backgrounds |
+| `cqlai-lockup-dark.svg` | Mark and name, for dark backgrounds |
+| `cqlai-icon-light.svg`, `cqlai-icon-light-512.png` | Mark only, for light backgrounds |
+| `cqlai-icon-dark.svg`, `cqlai-icon-dark-512.png` | Mark only, for dark backgrounds |
+| `cqlai-icon-charcoal-512.png` | Mark on a solid charcoal square, for avatars |
+| `cqlai-social-preview.png` | Social preview card, 1280 by 640 |
+
+### CQL Workbench
+
+| File | Use |
+|---|---|
+| `cqlworkbench-lockup-light.svg` | Mark and name, for light backgrounds |
+| `cqlworkbench-lockup-dark.svg` | Mark and name, for dark backgrounds |
+| `cqlworkbench-icon-light.svg`, `cqlworkbench-icon-light-512.png` | Mark only, for light backgrounds |
+| `cqlworkbench-icon-dark.svg`, `cqlworkbench-icon-dark-512.png` | Mark only, for dark backgrounds |
+| `cqlworkbench-icon-charcoal-512.png` | Mark on a solid charcoal square, for avatars |
+| `cqlworkbench-social-preview.png` | Social preview card, 1280 by 640 |
+
 Use the SVG files wherever you can. They stay sharp at any size.
 
 ## License and trademarks
 
 The files in this repository are licensed under the [Apache License, Version 2.0](LICENSE).
 
-The names and logos are trademarks. Chroniton Labs™, ChronitonDB™ and their logos are trademarks of AxonOps Limited. The Apache License, Version 2.0 does not grant permission to use them (section 6 of the License). You may use them to refer to the projects they name, following the brand guidelines, in a way that does not suggest endorsement by Chroniton Labs or AxonOps Limited.
+The names and logos are trademarks. Chroniton Labs™, ChronitonDB™, ChronitonMQ™ and their logos are trademarks of AxonOps Limited. The Apache License, Version 2.0 does not grant permission to use them (section 6 of the License). You may use them to refer to the projects they name, following the brand guidelines, in a way that does not suggest endorsement by Chroniton Labs or AxonOps Limited.
 
 AxonOps® is a registered trademark of AxonOps Limited.
 
