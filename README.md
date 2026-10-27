@@ -13,7 +13,7 @@ Logos, colours and brand guidelines for Chroniton Labs and its projects. Use the
 
 | Folder | What is in it |
 |---|---|
-| [`chronitonlabs/`](chronitonlabs/) | The Chroniton Labs mark, lockup, avatar and banner |
+| [`chronitonlabs/`](chronitonlabs/) | The Chroniton Labs mark, lockup, avatar, banner and social preview image |
 | [`chronitondb/`](chronitondb/) | The ChronitonDB mark, lockup, avatar and social preview image |
 | [`chronitonmq/`](chronitonmq/) | The ChronitonMQ mark, lockup, avatar and social preview image |
 | [`cqlai/`](cqlai/) | The CQLAI mark, lockup, avatar and social preview image |
@@ -30,6 +30,7 @@ Logos, colours and brand guidelines for Chroniton Labs and its projects. Use the
 | `chroniton-labs-mark-dark.svg` | Mark only, for dark backgrounds |
 | `chroniton-labs-avatar-512.png` | Mark on a solid charcoal square, for avatars |
 | `chroniton-labs-banner.svg`, `chroniton-labs-banner-1600x400.png` | Banner, 1600 by 400, for the top of pages |
+| `chroniton-labs-social-preview.png` | Social preview card, 1280 by 640 |
 
 ### ChronitonDB
 
